@@ -1,6 +1,6 @@
 Click: [armaan-camelai-clone.vercel.app](https://armaan-camelai-clone.vercel.app) to see what I deployed
 
-Click: [https://camelai.com/] (https://camelai.com/) to see the original
+Click: [camelai.com] (https://camelai.com) to see the original
 
 NOTE: some artistic and design tweaks were made due to my preference
 
