@@ -6,10 +6,14 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "camelAI - The AI Data Analyst",
+  title: "camelAI: AI-powered Data Analysis | SQL-Free Business Intelligence",
   description: "Ask questions, get instant charts and insights from your data.",
   generator: "v0.dev",
+  icons: {
+    icon: "/camelAI.jpg", // Ensure this file exists in the `public` folder
+  },
 }
+
 
 export default function RootLayout({
   children,
